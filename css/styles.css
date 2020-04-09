@@ -29,6 +29,10 @@ body, html {
   padding-bottom: 5%;
 }
 
+.containerAddNew {
+  margin-bottom: 10rem;
+}
+
 .bg-img {
   background-image: url(https://lamp.computerstudi.es/~Sierra200366619/COMP1054/final-project/assets/img/bg-img.JPG);
   height: 100%;
@@ -428,7 +432,7 @@ h2 {
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ FOOTER ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 .footer-distributed {
-  position: fixed;
+  /* position: fixed; */
   left: 0;
   bottom: 0;
   background-color: #333528;
